@@ -1,0 +1,16 @@
+PODS:
+  - NightNight (0.5.0)
+
+DEPENDENCIES:
+  - NightNight
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - NightNight
+
+SPEC CHECKSUMS:
+  NightNight: 2a5550fdd9cf424b75ebaab022c26aaba35304c8
+
+PODFILE CHECKSUM: 1b4fd2252642caa2b7fdb2aa3edfe8c433519c85
+
+COCOAPODS: 1.5.3
